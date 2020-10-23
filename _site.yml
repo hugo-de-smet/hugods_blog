@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "___'s Blog"
+title: "hugods's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/hugo-de-smet/hugods_blog
+base_url: hugo-de-smet.github.io/hugods_blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
