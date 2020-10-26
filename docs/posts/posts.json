@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-10-25-article-1-use-of-honeybee-and-bumblebee-venom-against-breast-cancer/",
+    "title": "Article 1 : Use of honeybee and bumblebee venom against breast cancer",
+    "description": "Scientists have found honeybee venom to rapidly destroy breast cancer cells due to their high concentration in melittin which is very efficient in reducing tumor growth",
+    "author": [
+      {
+        "name": "Hugo De Smet",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-26T12:48:46+01:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
