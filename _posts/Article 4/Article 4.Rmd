@@ -1,0 +1,42 @@
+---
+title: "Article 4 : Discovery of a usefull peptide against irritable bowel syndrome in spider venom"
+description: |
+  Researchers closely studied the pain killing effects of a spider venom peptide on IBS
+author:
+  - name: Hugo De Smet
+    url: {}
+date: 12-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I. Source of the article**
+
+URL : https://www.news-medical.net/news/20200922/Spider-venom-peptide-could-help-stop-pain-in-irritable-bowel-syndrome.aspx
+
+Date : August 17, 2020
+
+Word count : 761
+
+**II. Vocabulary**
+
+| **Word from the text**   | **Synonym/ definition in english**                                                           | **French translation** |
+|--------------------------|----------------------------------------------------------------------------------------------|------------------------|
+| alleviating/to alleviate | to make pain more bearable/less intense                                                      | atténuant/atténuer     |
+| debilitating             | tending to weaken                                                                            | invalidant             |
+| leg-span (of a spider)   | measurement of the size of a spider from the tip of the top leg to the tip of the bottom leg | l'envergure            |
+| inhibiting               | to block the action or function of                                                           | inhibant, bloquant     |
+
+**III.Analysis table about the study**
+
+| **Researchers**                  | Cardoso, Fernanda C.; Castro, Joel; Grundy, Luke; Schober, Gudrunb; Garcia-Caraballo, Sonia ; Zhao, Tianjiaoa; Herzig, Volker; King, Glenn F.; Brierley, Stuart ; Lewis, Richard                                                     |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Published in ? When ?**        | PAIN, August 17, 2020                                                                                                                                                                                                                |
+| **General topic**                | Scientists found a peptide in spider venom that could alleviates pain in IBS cases                                                                                                                                                   |
+| **Procedure/ what was examined** | The team first screened 28 spiders and found 2 novel peptides called Tap1a and Tap2a in a  tarantula venom. It seems like Tap1a & Tap2a can alter and modulate the activites of Nav and Cav3 channels which play a role in IBS pain. |
+| **Conclusion/discovery**         | Results suggest that a specific combination of Nav and Cav3 subtypes provides a hope for effective IBS treatments  if these peptides were proven to be safe for use on humans.                                                       |
+| **Remaining question**           | /

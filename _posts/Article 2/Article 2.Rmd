@@ -1,0 +1,42 @@
+---
+title: "Article 2 : Using a part of cone snail venom to create a better version of insulin"
+description: |
+  Scientists have produced a new type of insulin which combines the potency of human insulin and the fast acting properties of cone snail venom's insulin
+author:
+  - name: Hugo De Smet
+    url: {}
+date: 12-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I. Source of the article**
+
+URL : https://www.news-medical.net/news/20200603/Cone-snail-venom-produces-new-type-of-insulin.aspx
+
+Date : December 14, 2020
+
+Word count : 795
+
+**II. Vocabulary**
+
+| Word from the text | Synonym/definition in english                                                 | French translation |
+|----------------------|---------------------------------------------------------------------------------|----------------------|
+| truncated            | something made shorter especially by removing the end of it                     | tronquée             |
+| to occur             | to happen                                                                       | survenir             |
+| proboscis            | (in this case) a long tube like mouth of an animal                              | une trompe           |
+| bottom-dwelling      | relates to fish or marine creatures that dwell on the bottom of a body of water | benthique            |
+
+**III.Analysis table about the study**
+
+| **Researchers** :               | Dr. Danny Hung-Chieh Chou                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Published in ? When ?**       | nature structural & molecular biology, 12 June 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **General topic**               | Using a part of cone snail venom as a better version of insulin used in modern medicine                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Procedure/what was examined** | Researchers aimed to create a new type of insulin that would combine the fast acting potential of  venom insulin produced by the cone snail and thye potency of human insulin.                                                                                                                                                                                                                                                                                                                                                   |
+| **Conclusions/discovery**       | Researchers discovered that the venom insulin was way faster than human one but less potent. To solve the problem, they used structural biology and medicinal chemistry techniques to isolate the four amino acids they were interested in and truncated a version of human insulin molecule without the region  responsible for clumping^. They made a combined version of insulin presenting the potency of human insulin and the fast acting properties of the cone snail one, they called this new insulin : "Mini insulin"  |
+| **Remaining questions**         | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

@@ -1,0 +1,42 @@
+---
+title: "Article 3 : Engeneering of powerful novel anti microbial molecules from wasp venom"
+description: |
+  Scientists engineered  wasp venom-derived molecules to make valuable antibiotics
+author:
+  - name: Hugo De Smet
+    url: {}
+date: 12-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I. Source of the article**
+
+URL : https://www.news-medical.net/news/20201015/Scientists-engineer-powerful-novel-anti-microbial-molecules-from-wasp-venom.aspx
+
+Date : December 14, 2020
+
+Word count : 710
+
+**II. Vocabulary**
+
+| **Word from the text** | **Synonym/definition in english**               | **French translation** |
+|------------------------|-------------------------------------------------|------------------------|
+| to engineer            | to create / to alter                            | concevoir              |
+| a potentiator          | a substance that enchances the action of a drug | un potentialisateur    |
+| untapped               | not utilized                                    | inexploité             |
+| a predicament          | a troublesome situation                         | une impasse            |
+
+**III.Analysis table about the study**
+
+| **Researchers** :               | Osmar N. Silva, Marcelo D. T. Torres, Jicong Cao, Elaine S. F. Alves, Leticia V. Rodrigues , Jarbas M. Resende, Luciano M. Lião, William F. Porto, Isabel C. M. Fensterseifer , Timothy K. Lu,  Octavio L. Franco, and  Cesar de la Fuente-Nunez.                                              |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Published in ? When ?**       | PNAS, October 27, 2020                                                                                                                                                                                                                                                                         |
+| **General topic**               | Scientists tried to repurpose a peptide toxin from wasp venom into antiinfectives                                                                                                                                                                                                              |
+| **Procedure/what was examined** | The team aimed to determine if the peptide derived from wasp venom could be converted into potent microbial that could beat potentially fatal infections in mice. They produced a peptide called mast-MO, which showed stronger anti-bacterial properties in both in vitro and in vivo studies |
+| **Conclusions/discovery**       | Researchers found that mast-MO kept of the treated mice alive where mice treated with mast-L would less likely survive the infection. mast-MO acts as a suppressing pro-inflammatory factor, as a potentiator of conventional  antibiotics and apparently has immunomodulatory actions.        |
+| **Remaining questions**         | /                                                                                                                                                                                                                                                                                              |
