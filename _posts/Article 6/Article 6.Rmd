@@ -1,7 +1,7 @@
 ---
 title: "Article 5 : 
 description: |
-  Scientists found a way to treat severe malaria with cone snail venom
+  Snake venom enzyme as a SARS-CoV-2 counter
 author:
   - name: Hugo De Smet
     url: {}
