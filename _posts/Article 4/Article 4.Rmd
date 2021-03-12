@@ -1,5 +1,5 @@
 ---
-title: "Article 4 : Discovery of an usefull peptide against irritable bowel syndrome in spider venom"
+title: "Article 4 : Discovery of an: usefull peptide against irritable bowel syndrome in spider venom"
 description: |
   Researchers closely studied the pain killing effects of a spider venom peptide on IBS
 author:

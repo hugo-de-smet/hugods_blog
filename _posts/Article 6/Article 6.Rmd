@@ -1,0 +1,40 @@
+---
+title: "Article 5 : 
+description: |
+  Scientists found a way to treat severe malaria with cone snail venom
+author:
+  - name: Hugo De Smet
+    url: {}
+date: 12-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I. Source of the article**
+
+URL : https://www.news-medical.net/news/20210114/A-snake-venom-enzyme-shows-anti-SARS-CoV-2-activity-in-vitro.aspx
+
+Date : February 18, 2021
+
+Word count : 766
+
+**II. Vocabulary**
+
+| **Word from the text** | **Synonym/definition** | **French translation** |
+|------------------------|------------------------|------------------------|
+| hindering              | preventing an action   | entraver               |
+| virucidal              | that kills virus       | virucide               |
+| pathways               | ways                   | chemins                |
+
+**III.Analysis table about the study**
+
+| **Researchers**                     | Andrei E. Siniavin, Maria A. Nikiforova, Svetlana D. Grinkina, Vladimir A. Gushchin,  Vladislav G. Starkov, Alexey V. Osipov, Victor I. Tsetlin, Yuri N. Utkin                                                                                                                                             |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Published in ? When ?**           | bioRxiv, January 12, 2021                                                                                                                                                                                                                                                                                  |
+| **Procedure / what was examined ?** | Scientists studied the antiviral properties of snake venom in the case of SARS-CoV-2                                                                                                                                                                                                                       |
+| **Conclusion / discovery**          | sPLA2s (a small enzyme found in Crotalus durissus terrificus venom) acts against SARS-CoV-2 in vitro, they observed a suppression of cytopathic effect (CPE) which is expected as a result of viral infection of cell cultures. All the results show the ability of sPLA2s to inactivate  various viruses. |
+| **Remaining questions ?**           | /                                                                                                                                                                                                                                                                                                          |

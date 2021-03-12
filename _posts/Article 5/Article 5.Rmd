@@ -1,0 +1,41 @@
+---
+title: "Article 5 : 
+description: |
+  Scientists found a way to treat severe malaria with cone snail venom
+author:
+  - name: Hugo De Smet
+    url: {}
+date: 12-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I. Source of the article**
+
+URL : https://www.sciencedaily.com/releases/2021/02/210218094534.htm
+
+Date : February 18, 2021
+
+Word count : 661
+
+**II. Vocabulary**
+
+| **Word from the text** | **Synonym/definition**                                                                                              | **French translation** |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------|
+| disrupt                | trouble                                                                                                             | perturber              |
+| high-troughput assays  | a scientific experimentation which allows to quickly conduct in a million chemical, genetic and pharmalogical tests | criblage à haut débit  |
+| noteworthy             | notable                                                                                                             | remarquable            |
+
+**III.Analysis table about the study**
+
+| **Researchers**                  | Alberto Padilla, Sanaz Dovell, Olga Chesnokov, Mickelene Hoggard                                                                                                                                                                                                                                                                                                               |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Published in ? When ?**        | Journal of Proteomics, February 18, 2021                                                                                                                                                                                                                                                                                                                                       |
+| **General topic**                | Use of conotoxins against malaria                                                                                                                                                                                                                                                                                                                                              |
+| **Procedure/ what was examined** | Scientists took an in-depth look at the ability of conotoxins to disrupt protein-protein interactions that directly benefits to the disease                                                                                                                                                                                                                                    |
+| **Conclusion/discovery**         | After using high-troughput assays on Conus nux ( a sp of con snail), reserchers highlighted the ability of conotoxins to disrupt protein-protein and protein-polysaccharide interactions which directly contribute to P.falciparum, the parasite that causes malaria. They determined  that conotoxin disrupt P.falciparum membrane proteines which leads to it's destruction. |
+| **Remaining question**           | /                                                                                                                                                                                                                                                                                                                                                                              |
